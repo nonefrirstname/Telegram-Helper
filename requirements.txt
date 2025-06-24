@@ -1,0 +1,12 @@
+requests
+pyperclip
+pynput
+psutil
+pywin32
+WMI
+Pillow
+python-telegram-bot
+opencv-python
+numpy
+pyzipper
+pyttsx3
